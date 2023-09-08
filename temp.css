@@ -1,0 +1,54 @@
+#mainDiv{
+    margin-left: 35%;
+    margin-top: 5%;
+    background-color: beige;
+    height: 400px;
+    width: 300px;
+    border: 20px solid rgb(53, 71, 71);
+    padding: 50px ;
+}
+#heading{
+    text-align: center;
+}
+#convertDiv{
+    justify-content: space-between;
+    padding: 50px;
+    display: flex;
+}
+#inputValue{
+    height: 30px;
+    text-align: center;
+    font-size: 25px;
+    width: 200px;
+}
+#from{
+    line-height: 10px;
+}
+#to{
+    line-height: 10px;
+}
+select{
+    height: 25px;
+}
+
+#Result{
+    margin-left: 40px;
+    text-align: center;
+    height: 50px;
+    width: 210px;
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+#convertButton{
+    height: 30px;
+    width: 80px;
+    margin-left: 110px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: rgb(242, 246, 245);
+    /* border: 1px solid white; */
+}
