@@ -4,8 +4,9 @@
     background-color: beige;
     height: 400px;
     width: 300px;
-    border: 20px solid rgb(53, 71, 71);
+    border: 10px solid rgb(53, 71, 71);
     padding: 50px ;
+    border-radius:10px
 }
 #heading{
     text-align: center;
